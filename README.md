@@ -1,30 +1,15 @@
-# This is a large heading
+# HI THERE!!
+### Santiago Garrido's First Blog
 
-## This is a smaller heading
+So im jus writing random things to  practice whith *github* an *Markdown*
+__
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## My last dream
 
-- This is
-- an unordered
-- list
+I dont realyy remember that clear but i dream about heroes, citys and dragons.
+But actualy not in a mediabal world, it was in the actual era. The city was incredible amacing clasic buldings an a lot of lights in the night.
 
-1. This is
-2. an ordered
-3. list
+One of the best parts was that my dream had soundtrack jajaja. [*Nothing else mathers*](https://www.youtube.com/watch?v=tAGnKpE4NCI"Click and hear!"), Metallica was the song FCKING MAZING!! 
 
-Here is `some code` in the middle of a sentence.
+![city whit dragons](https://i.pinimg.com/originals/1e/dc/6a/1edc6abbe2f2f6f36786e1ff2534caa3.jpg)
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
